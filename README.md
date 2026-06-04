@@ -1,4 +1,4 @@
-Hey there,<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8e3a8e5d-2d67-4b59-a6b0-7e74c49c34e8" />
+Hey there,👋🏻
 
 
 I'm Ahmad, a cybersecurity learner focused on penetration testing and ethical hacking.
