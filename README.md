@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ahmad 👋
 
-<!--
-**ahmad0xcy/ahmad0xcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Learner | Focused on Pentesting & Ethical Hacking | CPTS (in progress) | CTF Player
 
-Here are some ideas to get you started:
+---
+## 🧠 About Me
+- 🎯 Passionate about Cybersecurity
+- 🔍 Learning Penetration Testing step by step
+- 💻 Practicing CTF challenges & HackTheBox / PortSwigger labs
+- 📚 Currently preparing for CPTS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🚀 What I'm Working On
+- Web Security (XSS, CSRF, SQLi, SSRF)
+- Linux & Networking fundamentals
+- CTF writeups and labs
+
+---
+
+## 🛠️ Skills (Learning)
+- Python (basic)
+- C++ (basic|OOP|DS)
+- Linux
+- Web Security Basics
+
+---
+
+## 📊 Goals
+- Become a professional Penetration Tester
+- Complete CPTS certification
+- Start Bug Bounty hunting
+- Start a real position as a Penetration Tester
+---
+
+## 📫 Contact
+-linkedin:www.linkedin.com/in/ِahmad-alsokhni-227307328
