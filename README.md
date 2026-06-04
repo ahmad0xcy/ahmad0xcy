@@ -1,36 +1,16 @@
-# Hi, I'm Ahmad 👋
+Hey there,
 
-Cybersecurity Learner | Focused on Pentesting & Ethical Hacking | CPTS (in progress) | CTF Player
+I'm Ahmad, a cybersecurity learner focused on penetration testing and ethical hacking.
 
----
-## 🧠 About Me
-- 🎯 Passionate about Cybersecurity
-- 🔍 Learning Penetration Testing step by step
-- 💻 Practicing CTF challenges & HackTheBox / PortSwigger labs
-- 📚 Currently preparing for CPTS
+I like figuring out how systems break more than how they work. Most of my time goes into breaking things in labs, solving CTFs, and digging into real web vulnerabilities.
 
----
-## 🚀 What I'm Working On
-- Web Security (XSS, CSRF, SQLi, SSRF)
-- Linux & Networking fundamentals
-- CTF writeups and labs
+Right now I'm working through PortSwigger Web Security Academy, HackTheBox labs, and preparing for CPTS. I try to learn everything hands-on, even if it means getting stuck for hours on a single problem.
 
----
+I’m still early in the journey, but I’m building consistency over perfection.
 
-## 🛠️ Skills (Learning)
-- Python (basic)
-- C++ (basic|OOP|DS)
-- Linux
-- Web Security Basics
+I document my progress through GitHub labs, notes, and writeups.
 
----
-
-## 📊 Goals
-- Become a professional Penetration Tester
-- Complete CPTS certification
-- Start Bug Bounty hunting
-- Start a real position as a Penetration Tester
----
-
-## 📫 Contact
--linkedin:www.linkedin.com/in/ِahmad-alsokhni-227307328
+Fun facts:
+- I enjoy getting stuck on hard CTFs (it’s part of the process)
+- I learn best by breaking things, not reading about them
+- I prefer practical security over theory
