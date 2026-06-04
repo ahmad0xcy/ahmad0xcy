@@ -6,11 +6,11 @@ I like figuring out how systems break more than how they work. Most of my time g
 
 Right now I'm working through PortSwigger Web Security Academy, HackTheBox labs, and preparing for CPTS. I try to learn everything hands-on, even if it means getting stuck for hours on a single problem.
 
-I’m still early in the journey, but I’m building consistency over perfection.
+I’m still early in the journey, but I’m building consistency over time.
 
-I document my progress through GitHub labs, notes, and writeups.
+You can check out my writeups here: https://medium.com/@rdmfg3791
 
 Fun facts:
-- I enjoy getting stuck on hard CTFs (it’s part of the process)
-- I learn best by breaking things, not reading about them
+- I enjoy getting stuck on hard CTFs and figuring them out step by step
+- I learn best by breaking things, not just reading about them
 - I prefer practical security over theory
